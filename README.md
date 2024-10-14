@@ -1,2 +1,3 @@
 # To-do-list
-A simple Contact Management System to store, view, update, search, and delete contacts. Users can add contact details like name, phone, email, and address. Features include a search function and a user-friendly interface for easy interaction.
+A simple To-Do List application that allows users to add, view, update, and delete tasks. Organize tasks with due dates, mark them as complete, and manage priorities. Features an intuitive interface for easy task management and efficient tracking of daily activities.
+
